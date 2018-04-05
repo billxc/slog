@@ -1,0 +1,1 @@
+A very simple library for logging in golang
